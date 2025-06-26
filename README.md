@@ -16,7 +16,7 @@ Installation
 
 	In Live’s Preferences go to the *Link, Tempo & MIDI* tab and select *MiniLab 3 banks* from the dropdown list of available Control Surfaces. As MIDI Input select `Minilab3 (MIDI)`. As MIDI Output select `Minilab3 (MIDI)`. *Takeover mode* can be set to None.
 
-This script is based on my [previous custom script](https://github.com/diegorad/MiniLab_3_Notify) which aligns the encoders to the values of the parameters they control when a new device is selected.
+This script is an extenstion on my [previous custom script](https://github.com/diegorad/MiniLab_3_Notify) which only aligns the encoders to the values of the parameters they control when a new device is selected.
 
 **Important note:**
 This script has only been tested in Ableton 12.1.5. Due to an update on Live's embedded python, this script will not work on Live 12.0 and older versions. However, if you are running Live 12.0, it is possible to replace the `.pyc` files of this script with copies of the original ones provided with Ableton.
