@@ -6,7 +6,7 @@ This custom remote script allows the MiniLab 3 to access **parameter banks**. Wh
 Installation
 ------------
 
-1. 	Download the files in this repository.
+1. 	[Download](https://github.com/diegorad/Minilab_3_banks/archive/refs/heads/main.zip) the files in this repository.
 1.	Stop Live if it is running.
 1.	Add the `Minilab_3_banks` folder to Ableton Live's Remote Scripts library:
 
