@@ -19,4 +19,4 @@ Installation
 This script is an extenstion on my [previous custom script](https://github.com/diegorad/MiniLab_3_Notify) which only aligns the encoders to the values of the parameters they control when a new device is selected.
 
 **Important note:**
-This script has only been tested in Ableton 12.1.5. Due to an update on Live's embedded python, this script will not work on Live 12.0 and older versions. However, if you are running Live 12.0, it is possible to replace the `.pyc` files of this script with copies of the original ones provided with Ableton.
+This script has only been tested in Ableton 12.1.5. Due to updates on Live's embedded python, this script does not work on Live 12.0 and older versions. However, if you are running Live 12.0, it is possible to replace the `.pyc` files of this script with copies of the original ones provided with Ableton to make it work.
