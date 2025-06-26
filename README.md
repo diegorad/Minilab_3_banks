@@ -1,7 +1,7 @@
 # Minilab_3_banks
 Custom remote script for Ableton for the Minilab 3.
 
-This custom remote script allows the MiniLab 3 to access parameter banks. When a new device or bank is selected, the encoders align to the values of  the parameters they control. No more jumping values. It also repurpose two buttons of the *Transport Bank* of the Minilab 3. The *Loop* button now cycles through the parameter banks; the name of the device and the selected bank are displayed on the Minilab 3 display. And the *Tap* button now toggles the metronome on and off.
+This custom remote script allows the MiniLab 3 to access **parameter banks**. When a new device or bank is selected, the encoders align to the values of  the parameters they control. No more jumping values when movign the encoders. It also repurpose two buttons of the *Transport Bank* of the Minilab 3. The *Loop* button now cycles through the parameter banks; the name of the device and the selected bank are displayed on the Minilab 3 display. And the *Tap* button now toggles the metronome on and off. Additionally, when moving the playhead using the display encoder, the Minilab 3 display will now show the `Bar.Beat.Tick` time instead of minutes and seconds. 
 
 Installation
 ------------
