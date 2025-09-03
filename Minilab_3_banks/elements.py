@@ -17,8 +17,7 @@ class Elements(ElementsBase):
     def __init__(self, *a, **k):
         (super().__init__)(*a, **k)
         self.add_button(27, 'Shift_Button')
-        self.add_encoder(28, 'Display_Encoder',
-                         map_mode=(MapMode.LinearBinaryOffset))
+        self.add_encoder(28, 'Display_Encoder', map_mode=(MapMode.LinearBinaryOffset))
         self.add_encoder(29,
                          'Shifted_Display_Encoder', map_mode=(MapMode.LinearBinaryOffset))
         self.add_button(118, 'Display_Encoder_Button')

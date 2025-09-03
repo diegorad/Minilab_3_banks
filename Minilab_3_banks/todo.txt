@@ -1,0 +1,2 @@
+Session view: Encoder to scene_scroll
+Shif button mods: Shift + Tap: Tap tempo, Shif + Rec: Arm

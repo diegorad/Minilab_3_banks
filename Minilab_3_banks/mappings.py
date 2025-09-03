@@ -1,6 +1,7 @@
 from __future__ import absolute_import, print_function, unicode_literals
 from ableton.v3.control_surface.mode import select_mode_for_main_view
 from .midi import PAD_TRANSLATION_CHANNEL
+from .Logging import log
 
 def translate_pad_banks(cs):
 
@@ -21,27 +22,22 @@ def realign_encoder_values(cs):
 
 
 def create_mappings(cs):
+    log('::create_mappings::')
     return {'View_Based_Recording': dict(record_button='record_button'),
             'Transport': dict(play_button='play_button',
                               stop_button='stop_button',
-                              metronome_button='metronome_button'),
-            'Device': dict(bank_button='bank_button'),
+                              metronome_tap_button='metronome_button',
+                              shift_button='shift_button'),
+            'Device': dict(bank_button='bank_button',
+                         scroll_devices='shifted_display_encoder'),
+            'DisplayEncoder': dict(encoder='display_encoder',
+                                button='display_encoder_button'),
             'Mixer': dict(target_track_arm_button='shifted_display_encoder_button',
                           target_track_pan_control='pan_fader',
                           target_track_send_a_control='send_a_fader',
                           target_track_send_b_control='send_b_fader',
                           target_track_volume_control='volume_fader'),
-            'View_Control': dict(track_encoder='shifted_display_encoder'),
-            'Display_Modes': dict(session=dict(modes=[
-                dict(component='View_Control', scene_encoder='display_encoder'),
-                dict(component='Session',
-                     scene_0_launch_button='display_encoder_button')],
-                selector=(select_mode_for_main_view('Session'))),
-        arrangement=dict(modes=[
-            dict(component='Transport',
-                 arrangement_position_encoder='display_encoder',
-                 play_toggle_button='display_encoder_button')],
-                selector=(select_mode_for_main_view('Arranger')))),
+            'View_Control': dict(),
             'Main_Modes': dict(mode_selection_control='firmware_element',
                                user=translate_pad_banks(cs),
                                main=dict(modes=[

@@ -16,7 +16,9 @@ from .mappings import create_mappings
 from .midi import CONNECTION_MESSAGE, DISCONNECTION_MESSAGE, REQUEST_PROGRAM_MESSAGE, SYSEX_START
 from .transport import TransportComponent
 from .device import DeviceComponent
-#from .Logging import log
+from .DisplayEncoder import DisplayEncoderComponent
+from .view import ViewControlComponent
+from .Logging import log
 
 def get_capabilities():
     return {CONTROLLER_ID_KEY: (controller_id(vendor_id=7285,
@@ -45,7 +47,7 @@ class Specification(ControlSurfaceSpecification):
     create_mappings_function = create_mappings
     hello_messages = (CONNECTION_MESSAGE, REQUEST_PROGRAM_MESSAGE)
     goodbye_messages = (DISCONNECTION_MESSAGE,)
-    component_map = {'Drum_Group':DrumGroupComponent,  'Transport':TransportComponent, 'Device':DeviceComponent}  #Device component added
+    component_map = {'Drum_Group':DrumGroupComponent,  'Transport':TransportComponent, 'Device':DeviceComponent, 'DisplayEncoder':DisplayEncoderComponent, 'View_Control':ViewControlComponent}  #Device component added
 
 
 class MiniLab_3(ControlSurface):
@@ -55,6 +57,8 @@ class MiniLab_3(ControlSurface):
         AnalogLabComponent()
         display = DisplayComponent(self._identification, self.component_map["Transport"], self.component_map["Device"]) #Device component added
         display.shift_button.set_control_element(self.elements.shift_button)
+        displayEncoder = self.component_map['DisplayEncoder']
+        displayEncoder.set_components(self.component_map["Transport"], self.component_map["Device"], self.component_map["View_Control"])
         
     @staticmethod
     def _should_include_element_in_background(element):

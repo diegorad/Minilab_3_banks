@@ -1,0 +1,5243 @@
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x17da4f150>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2a0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da2ba40>
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17da8a4c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafe040>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafe040>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafdfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafeb40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17dafea40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17daff4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff3c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17daff240>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13624d450>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c01740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c002c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c002c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c011c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x136285ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x136286e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c027c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c02e40>
+Current view change: Arranger
+Current view change: Session
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c037c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c038c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c031c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03640>
+::scroll_devices::<RackDevice.RackDevice object at 0x140c03d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x13623b640>
+::scroll_devices::<RackDevice.RackDevice object at 0x136286e40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03c40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x136286dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03c40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x136286dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03c40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x136286dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03c40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x136286dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03c40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x140c03dc0>
+Current view change: Session
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12fc42850>
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x125f4d610>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_button::
+::_on_button::
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12cb0ad10>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x14cc38490>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac018c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac00140>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac00140>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac01e40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17ac028c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x14dd39940>
+::scroll_devices::<RackDevice.RackDevice object at 0x14dd3b140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac03140>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17ac02fc0>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x136948710>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x161d4efd0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x14494f3d0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12ee0aa10>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::TransportComponent::
+::TransportComponent::
+::TransportComponent::
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12dd41c10>
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13ac48490>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x12001aa50>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x11fcd6a10>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x17ce5b790>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x17cc39890>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x139204790>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x138edaa10>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x16162d6d0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x161f4ee90>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x17b58cbd0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x17c035910>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db023c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db000c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db000c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01540>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c186f40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c185fc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db030c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db028c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db028c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db028c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db028c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db028c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02f40>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db033c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db017c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02040>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db031c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02040>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db031c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db01940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db02bc0>
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db03b40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01dc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01bc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db036c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01bc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db036c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db03ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db01bc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02640>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db02740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d240>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d7c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5df40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5de40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5e840>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e740>
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5efc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d340>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5d340>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5de40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5de40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5fc40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f4c0>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13bbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fdc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fdc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fcc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fe40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13bbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fcc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13bbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13be40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fcc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fe40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13bbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13bbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x17c13be40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fcc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fcc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5fe40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f340>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f2c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c186f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13bbc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13be40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c186f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13bbc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13be40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c186f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13be40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13bbc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c186f40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13ba40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13bbc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c13be40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x17c186f40>
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5f2c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f340>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f940>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f840>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f840>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5e0c0>
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5efc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5f440>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5ca40>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c1c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<RackDevice.RackDevice object at 0x30db5c740>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d5c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x30db5d1c0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x30db6d0d0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x30db14050>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x161f48190>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x160fa4950>
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x1678481d0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x167837310>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<Device.Device object at 0x161f7da40>
+::scroll_devices::<Device.Device object at 0x1678d2740>
+::scroll_devices::<Device.Device object at 0x1678d2740>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1678d2f40>
+::scroll_devices::<RackDevice.RackDevice object at 0x16785e9c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x16785c640>
+::scroll_devices::<RackDevice.RackDevice object at 0x1678d3340>
+::scroll_devices::<RackDevice.RackDevice object at 0x1678d26c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x167937240>
+::scroll_devices::<RackDevice.RackDevice object at 0x1679372c0>
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<RackDevice.RackDevice object at 0x1679513c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x167951bc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x167951bc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x167953440>
+::scroll_devices::<RackDevice.RackDevice object at 0x167952440>
+::scroll_devices::<RackDevice.RackDevice object at 0x1679534c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1679509c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x167951940>
+::scroll_devices::<RackDevice.RackDevice object at 0x167950ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x167953340>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x167953340>
+::scroll_devices::<RackDevice.RackDevice object at 0x16785c640>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x167937140>
+::scroll_devices::<RackDevice.RackDevice object at 0x167937c40>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<Device.Device object at 0x1678d3d40>
+::scroll_devices::<Device.Device object at 0x1678d2fc0>
+::scroll_devices::<Device.Device object at 0x1678d3040>
+::scroll_devices::<Device.Device object at 0x1678d3e40>
+::scroll_devices::<Device.Device object at 0x1678d2f40>
+::scroll_devices::<Device.Device object at 0x1678d3d40>
+::scroll_devices::<Device.Device object at 0x1678d3040>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1679507c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x1679511c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x1678d2040>
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+Current view change: Arranger
+Current view change: Arranger
+Bank button press
+Bank button: <Minilab_3_custom.device.DeviceComponent object at 0x161f42a50>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::scroll_devices::<Device.Device object at 0x167961bc0>
+::scroll_devices::<Device.Device object at 0x167952f40>
+Current view change: Arranger
+Bank button press
+Bank button: <Minilab_3_custom.device.DeviceComponent object at 0x161f42a50>
+Bank button press
+Bank button: <Minilab_3_custom.device.DeviceComponent object at 0x161f42a50>
+Bank button press
+Bank button: <Minilab_3_custom.device.DeviceComponent object at 0x161f42a50>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::scroll_devices::<Device.Device object at 0x167934040>
+Current view change: Arranger
+::scroll_devices::<Device.Device object at 0x167953040>
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+Current view change: Session
+::scroll_devices::None
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x13d152ed0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13ccb1610>
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x167248190>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x167237290>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x12f852f90>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12f698e50>
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x13f548050>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13f537390>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<MaxDevice.MaxDevice object at 0x13f5cfbc0>
+::scroll_devices::<Device.Device object at 0x13f55ea40>
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::scroll_devices::<MaxDevice.MaxDevice object at 0x13f637040>
+Current view change: Session
+::scroll_devices::<Device.Device object at 0x13f634640>
+Current view change: Session
+::scroll_devices::<MaxDevice.MaxDevice object at 0x13f634640>
+Current view change: Session
+::scroll_devices::<Device.Device object at 0x13f659c40>
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::scroll_devices::<Device.Device object at 0x12f7c6940>
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Session
+Current view change: Session
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+::scroll_devices::<MaxDevice.MaxDevice object at 0x13f5cff40>
+Current view change: Session
+::scroll_devices::<Device.Device object at 0x13f5ceec0>
+Current view change: Session
+::scroll_devices::<MaxDevice.MaxDevice object at 0x13f6363c0>
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Session
+Current view change: Session
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+Current view change: Session
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x30d54e450>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x30d08b690>
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x31443c950>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x3144362d0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+::_on_shift_button::
+::_on_shift_button::released
+::_on_shift_button::
+::_on_shift_button::pressed
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x122ee67d0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x122ecf6d0>
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x12094eec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x12094ed40>
+::scroll_devices::<RackDevice.RackDevice object at 0x12094f640>
+::scroll_devices::<RackDevice.RackDevice object at 0x122f0dec0>
+::map_metronome_button::
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x13e749ad0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13e399810>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::map_metronome_button::
+::_on_button::value: 127
+::map_metronome_button::
+::_on_button::value: 0
+Current view change: Arranger
+::map_metronome_button::
+::_on_button::value: 127
+::map_metronome_button::
+::_on_button::value: 0
+Current view change: Arranger
+::map_metronome_button::
+::_on_button::value: 127
+::map_metronome_button::
+::_on_button::value: 0
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x165a50e90>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x16560e5d0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::map_metronome_button::
+::_on_button::value: 127
+::map_metronome_button::
+::_on_button::value: 0
+Current view change: Arranger
+::map_metronome_button::
+::_on_button::value: 127
+::map_metronome_button::
+::_on_button::value: 0
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x1484a4690>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x14bd9f310>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+Current view change: Session
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::<Device.Device object at 0x166b7b740>
+::scroll_devices::<Device.Device object at 0x14c07a9c0>
+::scroll_devices::<Device.Device object at 0x166b782c0>
+::scroll_devices::<Device.Device object at 0x14c07a9c0>
+::scroll_devices::<Device.Device object at 0x166b78740>
+::scroll_devices::<Device.Device object at 0x14c07b4c0>
+::scroll_devices::<Device.Device object at 0x166b78740>
+::scroll_devices::<Device.Device object at 0x14c07a9c0>
+::scroll_devices::<Device.Device object at 0x166b78c40>
+::scroll_devices::<Device.Device object at 0x14c07b4c0>
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::<Device.Device object at 0x14c0357c0>
+::scroll_devices::<Device.Device object at 0x14c07b4c0>
+::scroll_devices::<Device.Device object at 0x166b7b740>
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+Bank button press
+Bank button press
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+Current view change: Session
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x12f342f50>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x12ef0dbd0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::<PluginDevice.PluginDevice object at 0x12f3fecc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3fd8c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3fef40>
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3fef40>
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3ffac0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x12f3ff040>
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3ff740>
+::scroll_devices::<RackDevice.RackDevice object at 0x12f3ff0c0>
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x143a48410>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x141b0a610>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::_on_shift_button::
+::_on_shift_button::
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x13bd52c50>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x13ad17d90>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x166749a90>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x1658d6690>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+::_on_shift_button::
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1667fd340>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5e440>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5dac0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f040>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x311d5dbc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f040>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f7c0>
+::_on_shift_button::
+::_on_shift_button::
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f7c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5efc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d813c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d80dc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x311d814c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5fdc0>
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::_on_shift_button::
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f740>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5fb40>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x311d5c2c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5fc40>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5e540>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5dac0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x311d5cfc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x311d5cfc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5c940>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5d940>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5d940>
+::scroll_devices::<RackDevice.RackDevice object at 0x311d5f0c0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1667fdec0>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x163353550>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x162a0fb50>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::_on_shift_button::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::<Device.Device object at 0x1633fe540>
+::scroll_devices::<Device.Device object at 0x1633fe540>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1633ff240>
+::scroll_devices::<RackDevice.RackDevice object at 0x1633fefc0>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1633ffe40>
+::scroll_devices::<RackDevice.RackDevice object at 0x1633ffc40>
+::scroll_devices::<RackDevice.RackDevice object at 0x1633fedc0>
+::scroll_devices::<RackDevice.RackDevice object at 0x1633fde40>
+::scroll_devices::<RackDevice.RackDevice object at 0x16337ca40>
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::scroll_devices::None
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::scroll_devices::<RackDevice.RackDevice object at 0x319867940>
+::scroll_devices::<PluginDevice.PluginDevice object at 0x3198650c0>
+::scroll_devices::<RackDevice.RackDevice object at 0x319867d40>
+::scroll_devices::<RackDevice.RackDevice object at 0x319866ec0>
+::scroll_devices::<RackDevice.RackDevice object at 0x319867f40>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::scroll_devices::<PluginDevice.PluginDevice object at 0x1633fe940>
+::scroll_devices::<RackDevice.RackDevice object at 0x1633fd2c0>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Session
+::_on_shift_button::
+Current view change: Session
+Current view change: Session
+::TransportComponent::
+::ViewControlComponent::
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x13990e1d0>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x139b066d0>
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::scroll_devices::<Device.Device object at 0x139dffcc0>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::scroll_devices::<Device.Device object at 0x139d799c0>
+::scroll_devices::<Device.Device object at 0x139d376c0>
+::scroll_devices::<Device.Device object at 0x139d799c0>
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::scroll_devices::<PluginDevice.PluginDevice object at 0x139dfdd40>
+::scroll_devices::<RackDevice.RackDevice object at 0x139dfee40>
+::scroll_devices::<RackDevice.RackDevice object at 0x139dfee40>
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::create_mappings::
+::ViewControlComponent::init
+::set_metronome_tap_button::self._metronome_tap_button: <ableton.v3.control_surface.elements.button.SysexSendingButtonElement object at 0x14c7af150>
+::set_encoder::self._encoder: <ableton.v3.control_surface.elements.encoder.EncoderElement object at 0x14c75fc90>
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::map_metronome_button::value: {value}
+::map_metronome_button::pressed
+::map_metronome_button::value: {value}
+::map_metronome_button::released
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
+Current view change: Arranger
+Current view change: Arranger
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+::arrangement_position_encoder::
+Current view change: Arranger
